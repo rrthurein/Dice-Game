@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+  padding-top: 5%;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+.container {
+  text-align: center;
+  padding: 100px;
+}
+
+.dice1, .dice2 {
+  width: 50%;
+}
